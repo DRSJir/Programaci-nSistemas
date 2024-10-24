@@ -2,7 +2,7 @@
 Entrega: 5 de octubre 2024
 
 # Autómata con paréntesis balanceados
-Este programa implementa un autómata de pila que acepta las cadenas $$L={(^n)^n,n > 0 }$$
+Este programa implementa un autómata de pila que acepta las cadenas $$L=\{(^n)^n,n \geq 0 \}$$
 
 | $q_0$           | $($                     | $)$                 | $\dashv$   |
 | --------------- | ----------------------- | ------------------- | ---------- |
