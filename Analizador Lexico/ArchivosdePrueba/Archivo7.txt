@@ -1,0 +1,31 @@
+Inicio 
+	a,b,c;
+	a := 5;
+       b := 10;
+       c = a+b*a-a/b*a-b+5;
+       Leer a;
+       Escribir b;
+       Escribir c;
+	
+	Si a < b Entonces
+		c >= a Entonces
+		c := 2*a-c+b;
+       Sino
+		b:= b-d*a-10;
+                 
+       Fin
+		Sino 
+                 Mientras c LE b Hacer
+			Mientras (a+b) > c Hacer
+				Escribir c;
+	 			Leer a;
+				Escribir a;
+			Fin
+		Fin
+		Leer a;
+	Fin
+	Leer b;
+	Escribir c;
+	
+Fin
+
